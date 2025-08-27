@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moq examples", "moq examples.csproj", "{3F2CAAED-75F9-4757-86A4-6C006268CA18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqMultpyTest", "..\MoqMultpyTest\MoqMultpyTest.csproj", "{F6D6C573-AA77-46DF-AF93-33BF5DC6A1CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3F2CAAED-75F9-4757-86A4-6C006268CA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F2CAAED-75F9-4757-86A4-6C006268CA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F2CAAED-75F9-4757-86A4-6C006268CA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D6C573-AA77-46DF-AF93-33BF5DC6A1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D6C573-AA77-46DF-AF93-33BF5DC6A1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D6C573-AA77-46DF-AF93-33BF5DC6A1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D6C573-AA77-46DF-AF93-33BF5DC6A1CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
